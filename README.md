@@ -8,8 +8,7 @@ A simple and clean habit tracker web app built with React. This project helps us
 - Mark habits as completed for the day
 - Track daily progress per habit
 - Clean and minimal UI
-- Fully responsive layout
-- State management using React hooks
+
 
 ## Built With
 
